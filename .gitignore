@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+rest-api-tutorials/
 
 # Spyder project settings
 .spyderproject
